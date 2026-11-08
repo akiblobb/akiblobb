@@ -1,16 +1,23 @@
-<img width="1732" height="576" alt="banner-removebg-preview (2)" src="https://github.com/user-attachments/assets/9d36250a-a826-4479-a749-8918aea5246e" />
+<div align="center">
+  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/9d36250a-a826-4479-a749-8918aea5246e" />
+</div>
 
-<h3 align="left">about</h3>
-
-cybersecurity student with a thing for solving problems, breaking things (ethically) and figuring out how they work. 
-usually found chasing rabbit holes or starting another side project.
-🔐 interested in: cybersecurity • ethical hacking • system security
-
-💻 working with: Python • Java • JavaScript • HTML/CSS
-
-🧠 currently exploring: security tools, vulnerability analysis & secure development
-
-🌐 [GitHub](https://github.com/akiblobb) • ✉️ [Email](mailto:syasyajamaluddin16@gmail.com)
+<table>
+  <tr>
+    <td valign="top" width="160">
+      <img src="https://i.pinimg.com/736x/1c/86/5f/1c865f29e162540b9e216d3c98a12f09.jpg" width="140" style="border-radius: 50%;" />
+    </td>
+    <td valign="top">
+      <h3 align="left">about</h3>
+      <p>cybersecurity student with a thing for solving problems, breaking things (ethically) and figuring out how they work. <br>
+      usually found chasing rabbit holes or starting another side project.</p>
+      <p>🔐 <b>interested in:</b> cybersecurity • ethical hacking • system security</p>
+      <p>💻 <b>working with:</b> Python • Java • JavaScript • HTML/CSS</p>
+      <p>🧠 <b>currently exploring:</b> security tools, vulnerability analysis & secure development</p>
+      <p>🌐 <a href="https://github.com/akiblobb">GitHub</a> • ✉️ <a href="mailto:syasyajamaluddin16@gmail.com">Email</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
