@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="left">projects</h3>
+<h3 align="left">⚡︎˖ ࣪projects</h3>
 
 - **Ryuk Productivity App** — A productivity app with a sarcastic Shinigami companion.
 - **???** — A surprise game project currently in development, made with RPG Maker.
