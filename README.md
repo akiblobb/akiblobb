@@ -1,16 +1,34 @@
-## Hi there 👋
+<img width="1732" height="576" alt="banner-removebg-preview (2)" src="https://github.com/user-attachments/assets/9d36250a-a826-4479-a749-8918aea5246e" />
 
-<!--
-**akiblobb/akiblobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">about</h3>
 
-Here are some ideas to get you started:
+cybersecurity student with a thing for solving problems, breaking things (ethically) and figuring out how they work. 
+usually found chasing rabbit holes or starting another side project.
+🔐 interested in: cybersecurity • ethical hacking • system security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 working with: Python • Java • JavaScript • HTML/CSS
+
+🧠 currently exploring: security tools, vulnerability analysis & secure development
+
+🌐 [GitHub](https://github.com/akiblobb) • ✉️ [Email](mailto:syasyajamaluddin16@gmail.com)
+
+---
+
+<h3 align="left">core skills</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,linux,bash,git,github,vscode" />
+</p>
+
+- **languages:** Python • Java • JavaScript
+- **cybersecurity:** Information Security • Cryptography Fundamentals • File Integrity Monitoring
+- **areas of interest:** Ethical Hacking • Vulnerability Assessment • Network Security • Application Security
+- **tools:** Git • GitHub • VS Code • Linux
+- **currently learning:** Security Testing • Secure Coding • Network Analysis
+
+---
+
+<h3 align="left">projects</h3>
+
+- **Ryuk Productivity App** — A productivity app with a sarcastic Shinigami companion.
+- **More experiments in progress...**
