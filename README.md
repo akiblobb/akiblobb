@@ -23,7 +23,7 @@ usually found chasing rabbit holes or starting another side project.
 - **languages:** Python • Java • JavaScript
 - **cybersecurity:** Information Security • Cryptography Fundamentals • File Integrity Monitoring
 - **areas of interest:** Ethical Hacking • Vulnerability Assessment • Network Security • Application Security
-- **tools:** Git • GitHub • VS Code • Linux
+- **tools:** Git • Docker • VS Code • Linux • RPG Maker V
 - **currently learning:** Security Testing • Secure Coding • Network Analysis
 
 ---
@@ -31,4 +31,5 @@ usually found chasing rabbit holes or starting another side project.
 <h3 align="left">projects</h3>
 
 - **Ryuk Productivity App** — A productivity app with a sarcastic Shinigami companion.
+- **???** — A surprise game project currently in development, made with RPG Maker.
 - **More experiments in progress...**
