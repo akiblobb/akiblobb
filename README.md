@@ -7,7 +7,7 @@
     <td valign="top" width="160">
       <img src="https://github.com/user-attachments/assets/a3c7f71b-4f24-4658-81cc-fb7e6ecedc39" width="140" style="border-radius: 50%;" />
       <br><br>
-      <img src="https://i.pinimg.com/originals/23/7c/42/237c429f04886ec206c671eecf1556e3.gif" width="140" style="border-radius: 10px;" />
+      <img src="https://i.pinimg.com/originals/e4/dc/c4/e4dcc40a144fb2f0c69a56a8275d9679.gif" width="140" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3 align="left">✮ about</h3>
